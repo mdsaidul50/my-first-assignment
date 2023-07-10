@@ -58,6 +58,35 @@ header{
     color: #272727; 
     font-weight: 200;
 }
-.flower-item{
+.flowers-item{
     display: flex;
+    margin: 0px 150px;
+}
+   
+
+.items1 img{
+    width: 106px;
+    background-color: rgba(167, 33, 98, 0.15);
+    margin-right: 10px;
+    padding: 12px 16px 0px 16px;
+    border-radius: 100px 100px 0px 0px;
+    
+}
+.items2 img{
+    width: 146px;
+    background-color: rgba(167, 33, 98, 0.15);
+    text-align: center;
+    margin-right: 10px;
+    padding: 12px 0px 5px 8px;
+    border-radius: 100px 100px 0px 0px;
+
+}
+.items3 img{
+    width: 100px;
+    background-color: rgba(167, 33, 98, 0.15);
+    padding: 10px 31px 0px 31px;
+    border-radius: 100px 100px 0px 0px;
+
+
+        
 }
