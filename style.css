@@ -136,6 +136,47 @@ header{
 .flower-imges img{
     width: 180px;
     height: 250px;
+    margin: 100px;
+}
+.best-album{
+    margin: 100px;
+}
+.best-album h3{
+    text-align: center;
+}
+.best-flower{
+    display: flex;
+    margin: 22px 100px;
+}
+.best-flower0{
+    box-shadow: rgba(0, 0, 0, 0.35) 10px 5px 25px;
+    height: 220px;
+    width: 220px; 
+    margin-right: 20px;   
+}
+.best-flower0 img{
+    height: 220px;
+    width: 220px;
+}
+.best-flower1{
+    box-shadow: rgba(0, 0, 0, 0.35) 10px 5px 25px;
+    height: 220px;
+    width: 220px;
+    margin-right: 30px; 
+}  
+.best-flower1 img{
+    height: 220px;
+    width: 220px;
+}
+.best-flower2{
+    box-shadow: rgba(0, 0, 0, 0.35) 10px 5px 25px;
+    height: 220px;
+    width: 220px;
+    
+} 
+.best-flower2 img{
+    height: 220px;
+    width: 220px;  
 }
 .instagram h3 {
     margin-top: 50px;
