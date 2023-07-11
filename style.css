@@ -60,7 +60,7 @@ header{
 }
 .flowers-item{
     display: flex;
-    margin: 0px 190px;
+    margin: 0px 250px;
     margin-top: 15px;    
 }
    
@@ -165,7 +165,7 @@ header{
     background-image: url("imges/Rectangle\ 9.png");
     margin: 10px 90px;
     background-position: cover;
-    height: 270px; 
+    height: 300px;
     
 }
 .deal{
@@ -188,5 +188,20 @@ header{
     border: none;
     border-radius: 5px;
     padding: 10px 23px;
+    color: aliceblue;
+}
+.footer{
+    background-color: #272727;
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+}
+.footer h3{
+    color:  #E55473; 
+}
+.footer h3 span{
+    color: aliceblue;
+}
+.footer p{
     color: aliceblue;
 }
