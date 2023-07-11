@@ -150,4 +150,43 @@ header{
     color: #272727; 
     font-weight: 200;
 }
-
+.sections{
+    margin: 50px 100px 0px 100px;
+}
+.album{
+    display: inline;
+    align-content: center;    
+}
+.album img{
+    width: 150px;
+    margin: 5px;
+}
+.subscribe{
+    background-image: url("imges/Rectangle\ 9.png");
+    margin: 10px 90px;
+    background-position: cover;
+    height: 270px; 
+    
+}
+.deal{
+    margin-top: 50px;
+    padding-top: 100px;
+}
+.deal h4{
+    color: aliceblue;
+}
+.deal p{
+    color: aliceblue;  
+}
+.deal input{
+    padding: 3px 190px 3px 3px;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+.deal button{
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 23px;
+    color: aliceblue;
+}
