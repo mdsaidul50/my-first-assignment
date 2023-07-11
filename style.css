@@ -108,7 +108,7 @@ header{
 }
 .write{
     width: 60%;
-    margin-top: 50px;
+    margin-top: 10px;
     margin-right: 40px;
     
 }
@@ -116,6 +116,7 @@ header{
     align-content: space-around;
     font-size: 17px;
     margin-bottom: 10px;
+    margin-top: 30px;
     
 }
 .write p{
@@ -135,8 +136,8 @@ header{
 
 .flower-imges img{
     width: 180px;
-    height: 250px;
-    margin: 100px;
+    height: 200px;
+    
 }
 .best-album{
     margin: 100px;
